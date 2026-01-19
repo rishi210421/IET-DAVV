@@ -212,5 +212,5 @@ Make it inspiring and specific.`
     console.error('AI prediction error:', error)
   }
 
-  return 'Your career path is bright! Keep learning and growing.'
+  return 'Based on your interest, these are the career paths you can explore:'
 }

@@ -97,7 +97,7 @@ export default function SignUpPage() {
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Student ID
+                  Aadhar No. 
                 </label>
                 <input
                   type="text"
